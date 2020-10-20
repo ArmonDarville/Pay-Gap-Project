@@ -1,0 +1,49 @@
+,JobTitle,Gender,Age,PerfEval,Education,Dept,Seniority,BasePay,Bonus
+0,Graphic Designer,Female,18,5,College,Operations,2,42363,9938
+6,Graphic Designer,Female,20,5,College,Sales,4,67585,10541
+8,Graphic Designer,Female,33,5,High School,Engineering,5,112976,9836
+25,Graphic Designer,Female,26,5,College,Engineering,2,71182,10015
+47,Graphic Designer,Female,26,5,PhD,Sales,3,74167,10346
+97,Graphic Designer,Female,22,4,Masters,Administration,4,96045,9129
+118,Graphic Designer,Female,18,4,PhD,Operations,3,78462,8743
+153,Graphic Designer,Female,52,5,College,Administration,1,66529,7067
+161,Graphic Designer,Female,51,5,College,Operations,3,108241,8602
+203,Graphic Designer,Female,44,4,High School,Administration,4,100416,7513
+208,Graphic Designer,Female,37,4,College,Engineering,4,89411,9522
+211,Graphic Designer,Female,39,4,PhD,Operations,5,120294,8090
+229,Graphic Designer,Female,31,4,College,Engineering,2,81826,8375
+246,Graphic Designer,Female,48,4,College,Administration,4,103133,7793
+270,Graphic Designer,Female,58,4,PhD,Sales,3,108820,7776
+287,Graphic Designer,Female,49,4,PhD,Engineering,2,95169,7415
+298,Graphic Designer,Female,65,5,High School,Operations,4,130251,7750
+323,Graphic Designer,Female,27,4,PhD,Sales,1,66125,8465
+333,Graphic Designer,Female,59,4,PhD,Management,4,125770,8013
+343,Graphic Designer,Female,22,3,College,Operations,2,56954,7550
+396,Graphic Designer,Female,22,2,Masters,Operations,4,107025,6577
+427,Graphic Designer,Female,26,2,Masters,Administration,5,100516,6737
+451,Graphic Designer,Female,55,3,College,Sales,5,118762,6545
+507,Graphic Designer,Female,63,3,College,Management,5,127608,6558
+518,Graphic Designer,Female,37,2,Masters,Management,3,104082,5477
+537,Graphic Designer,Female,49,3,PhD,Engineering,4,120697,7205
+572,Graphic Designer,Female,40,3,College,Operations,1,55845,6616
+618,Graphic Designer,Female,48,1,High School,Operations,5,113465,3846
+621,Graphic Designer,Female,20,1,Masters,Operations,4,55569,5236
+631,Graphic Designer,Female,18,2,College,Administration,1,41603,6092
+674,Graphic Designer,Female,35,2,High School,Engineering,5,97768,7233
+676,Graphic Designer,Female,50,3,Masters,Administration,1,76103,5173
+693,Graphic Designer,Female,43,1,PhD,Engineering,1,80635,4322
+697,Graphic Designer,Female,57,2,Masters,Sales,5,133741,4925
+742,Graphic Designer,Female,34,1,College,Management,4,99942,5352
+762,Graphic Designer,Female,34,1,PhD,Operations,3,75316,5861
+765,Graphic Designer,Female,55,2,College,Administration,3,111502,4413
+774,Graphic Designer,Female,63,2,College,Operations,4,106204,4534
+775,Graphic Designer,Female,38,1,High School,Administration,4,111041,3727
+787,Graphic Designer,Female,47,1,High School,Operations,5,108731,4793
+825,Graphic Designer,Female,59,2,College,Engineering,4,115344,4827
+845,Graphic Designer,Female,49,1,High School,Administration,4,96232,3697
+853,Graphic Designer,Female,44,1,Masters,Administration,2,72248,3634
+865,Graphic Designer,Female,45,1,High School,Management,3,75017,5576
+910,Graphic Designer,Female,33,1,High School,Sales,1,63914,3521
+912,Graphic Designer,Female,44,1,College,Sales,3,90474,3530
+990,Graphic Designer,Female,61,1,Masters,Engineering,1,91030,3318
+992,Graphic Designer,Female,63,1,College,Administration,2,81545,3418

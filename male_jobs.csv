@@ -1,0 +1,51 @@
+,JobTitle,Gender,Age,PerfEval,Education,Dept,Seniority,BasePay,Bonus
+4,Graphic Designer,Male,26,5,Masters,Engineering,5,99464,9319
+10,Graphic Designer,Male,24,5,PhD,Engineering,5,102261,10212
+27,Graphic Designer,Male,35,5,PhD,Management,3,88566,9469
+61,Graphic Designer,Male,34,5,Masters,Management,3,86766,9841
+79,Graphic Designer,Male,23,5,Masters,Management,3,83031,10240
+88,Graphic Designer,Male,31,5,PhD,Engineering,1,69462,8872
+134,Graphic Designer,Male,33,5,Masters,Management,3,83758,8498
+135,Graphic Designer,Male,22,5,PhD,Administration,1,40187,8549
+171,Graphic Designer,Male,19,4,Masters,Sales,1,61000,8872
+188,Graphic Designer,Male,53,5,High School,Operations,2,93073,8188
+201,Graphic Designer,Male,49,5,College,Management,4,106887,8347
+209,Graphic Designer,Male,22,4,Masters,Sales,2,57398,7827
+222,Graphic Designer,Male,46,5,High School,Engineering,4,102736,9736
+228,Graphic Designer,Male,18,4,High School,Sales,4,75506,9289
+234,Graphic Designer,Male,23,4,High School,Operations,1,50601,7351
+248,Graphic Designer,Male,27,4,College,Sales,5,114680,8472
+250,Graphic Designer,Male,21,3,Masters,Engineering,4,72301,8391
+279,Graphic Designer,Male,44,4,High School,Sales,4,102108,8339
+284,Graphic Designer,Male,57,4,Masters,Management,4,132873,7266
+293,Graphic Designer,Male,46,4,High School,Administration,4,88571,7464
+308,Graphic Designer,Male,65,5,Masters,Operations,5,116751,8505
+313,Graphic Designer,Male,20,2,Masters,Engineering,5,99543,6111
+355,Graphic Designer,Male,24,3,College,Engineering,2,59399,6692
+365,Graphic Designer,Male,55,5,Masters,Engineering,1,79144,8328
+435,Graphic Designer,Male,63,5,PhD,Engineering,1,105800,7822
+461,Graphic Designer,Male,47,3,College,Administration,5,106893,7958
+478,Graphic Designer,Male,62,5,Masters,Sales,1,85702,6556
+484,Graphic Designer,Male,55,4,College,Sales,2,75833,6942
+486,Graphic Designer,Male,65,4,College,Management,4,123371,6931
+492,Graphic Designer,Male,61,4,Masters,Engineering,2,105632,6394
+526,Graphic Designer,Male,49,3,Masters,Operations,5,126100,6336
+538,Graphic Designer,Male,29,3,PhD,Operations,2,70311,6235
+561,Graphic Designer,Male,44,3,PhD,Sales,1,66611,5924
+563,Graphic Designer,Male,30,2,Masters,Management,4,70559,6497
+565,Graphic Designer,Male,22,2,High School,Sales,3,69734,5383
+568,Graphic Designer,Male,23,1,PhD,Management,5,91504,5136
+611,Graphic Designer,Male,39,2,Masters,Operations,5,106883,5831
+622,Graphic Designer,Male,60,4,Masters,Engineering,1,97240,5412
+630,Graphic Designer,Male,50,3,Masters,Management,1,84803,5406
+644,Graphic Designer,Male,22,2,High School,Sales,3,72422,5697
+683,Graphic Designer,Male,54,3,High School,Management,3,100160,5562
+744,Graphic Designer,Male,45,2,Masters,Management,2,101273,3817
+786,Graphic Designer,Male,44,1,Masters,Engineering,5,107818,5281
+801,Graphic Designer,Male,56,2,Masters,Management,4,114048,5097
+807,Graphic Designer,Male,43,2,PhD,Management,2,82057,5268
+815,Graphic Designer,Male,29,1,Masters,Operations,3,73142,4712
+816,Graphic Designer,Male,53,2,High School,Operations,4,107065,3652
+874,Graphic Designer,Male,59,1,PhD,Sales,4,135512,3955
+891,Graphic Designer,Male,58,2,Masters,Operations,1,96609,3044
+949,Graphic Designer,Male,30,1,College,Operations,2,36642,4388
